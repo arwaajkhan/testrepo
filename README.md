@@ -1,2 +1,2 @@
 # testrepo
-testing first repository
+Creating first repository
